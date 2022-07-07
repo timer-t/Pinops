@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinops.Core", "Pinops\Pinops.Core.csproj", "{F6E501E9-9BC5-4E0C-A103-8668D0885762}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinops.Core", "Pinops.Core\Pinops.Core.csproj", "{F6E501E9-9BC5-4E0C-A103-8668D0885762}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{899A5E04-532E-4C93-8A2D-221F5C12E1CB}"
 EndProject

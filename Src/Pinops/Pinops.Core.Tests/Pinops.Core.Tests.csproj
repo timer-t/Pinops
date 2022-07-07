@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Pinops\Pinops.Core.csproj" />
+    <ProjectReference Include="..\Pinops.Core\Pinops.Core.csproj" />
   </ItemGroup>
 
 </Project>
